@@ -1,0 +1,1 @@
+**This project is a Universal Lexical Analyzer developed in Python as part of Compiler Construction coursework. It is capable of generating tokens from different programming languages and supports multiple input modes.**
